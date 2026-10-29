@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**arghajitsarkar46-alt/arghajitsarkar46-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arghajitsarkar/arghajitsarkar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
