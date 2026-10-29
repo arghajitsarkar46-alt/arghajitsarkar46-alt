@@ -1,5 +1,5 @@
-## Hi there 👋
-A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+Hi there 👋
+A startup Founder || BBA Student || Colosis India
 
 Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
 <!--
